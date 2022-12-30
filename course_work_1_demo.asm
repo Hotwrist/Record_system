@@ -1,3 +1,4 @@
+; Author: Odey John Ebinyi aka Hotwrist 
 ; Assembly language demonstration program
 
 ; Build either with the automatic build script:
