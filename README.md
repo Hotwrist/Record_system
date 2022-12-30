@@ -24,3 +24,10 @@ The system also performs the following operations:
  - Search for user given a user ID
  - List all users
  - List all computers 
+
+# Assumptions
+ - First names and surnames, all have a maximum size of 64 chars 
+ - Computer names are unique, and are in the form of cXXXXXXX where XXXXXXX is any 7 digit number 
+ - User IDs are unique, and are in the form of pXXXXXXX where XXXXXXX is any 7 digit number 
+ - Email addresses are in the form @helpdesk.co.uk 
+ - There is a maximum of 100 users and 500 computers on the system 
